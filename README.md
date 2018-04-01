@@ -8,7 +8,7 @@ To install this on your machine just clone the repository
 
 Add the repository to the web server, Apache is what I have used and recommend the same 
 
-put this repo inside the *document root* which is usually htdocs
+put this repo inside the **document root** which is usually **htdocs**
 
 Now open the app directory in your favourite IDE and configure `.env` file with database you want to use
 
