@@ -18,7 +18,7 @@ CD into the root directory
 
 `> cd laravel-blog-app`
 
-Let composer install all the necessary dependencies
+Let <a href=https://github.com/composer/composer>composer</a> install all the necessary dependencies
 
 `laravel-blog-app> composer install`
 
